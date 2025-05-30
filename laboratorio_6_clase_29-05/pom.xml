@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.clicko</groupId>
-	<artifactId>e-commerce</artifactId>
+	<artifactId>laboratorio_6_clase_29-05</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>e-commerce</name>
-	<description>e-commerce clicko para materia APIs </description>
+	<name>laboratorio_6_clase_29-05</name>
+	<description>laboratorio_6_clase_29-05</description>
 	<url/>
 	<licenses>
 		<license/>
